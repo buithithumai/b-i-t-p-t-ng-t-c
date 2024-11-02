@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="D087900D-2711-434B-A836-DAD76031C857" version="0">
+	<info>
+		<title>Trò chơi Ai tinh hơn  (2 phut)</title>
+		<description/>
+	</info>
+	<files index="id34" thumbnail="id30" totalSize="8897108">
+		<file id="id0">data/audios/snd-5ea1-e826-b8f4-5888.mp3</file>
+		<file id="id1">data/audios/snd-65c6-4bd9-b567-1655.mp3</file>
+		<file id="id2">data/audios/snd-9996-c239-e523-31c5.mp3</file>
+		<file id="id3">data/audios/snd-b99a-a538-241e-a8d4.mp3</file>
+		<file id="id4">data/browsersupport.js</file>
+		<file id="id5">data/fonts/fnt0.woff</file>
+		<file id="id6">data/fonts/fnt1.woff</file>
+		<file id="id7">data/fonts/fnt2.woff</file>
+		<file id="id8">data/fonts/fnt3.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-0dfc-dd9b-4686-9e25.png</file>
+		<file id="id12">data/images/img-0e49-5e8b-70df-0aef.jpg</file>
+		<file id="id13">data/images/img-1471-0433-fa45-9f98.gif</file>
+		<file id="id14">data/images/img-3f78-669c-5633-5291.png</file>
+		<file id="id15">data/images/img-486a-cd00-085a-d7b3.png</file>
+		<file id="id16">data/images/img-54b1-7c68-cf87-d2b0.png</file>
+		<file id="id17">data/images/img-619b-e564-7dac-e04c.png</file>
+		<file id="id18">data/images/img-67c7-3299-9f77-3d61.png</file>
+		<file id="id19">data/images/img-68b9-18a0-5692-cf87.png</file>
+		<file id="id20">data/images/img-71b1-4484-696c-f00a.png</file>
+		<file id="id21">data/images/img-729a-59a3-591d-f023.png</file>
+		<file id="id22">data/images/img-7fd3-3aef-ca46-570f.png</file>
+		<file id="id23">data/images/img-8586-4580-ba07-5eb8.png</file>
+		<file id="id24">data/images/img-a1c0-8e39-6d3b-08b7.gif</file>
+		<file id="id25">data/images/img-a46b-008a-ae5b-d7ab.png</file>
+		<file id="id26">data/images/img-b71d-74a1-99f8-9a13.png</file>
+		<file id="id27">data/images/img-da70-b4a4-addf-93d9.png</file>
+		<file id="id28">data/ismplayer/app_store2x.png</file>
+		<file id="id29">data/ismplayer/play.svg</file>
+		<file id="id30">data/ismplayer/preview.png</file>
+		<file id="id31">data/ismplayer/style.css</file>
+		<file id="id32">data/ismplayer/style_mini.css</file>
+		<file id="id33">data/player.js</file>
+		<file id="id34">index.html</file>
+		<file id="id35">ismplayer.html</file>
+		<file id="id36">preview.png</file>
+	</files>
+</presentation>
+
